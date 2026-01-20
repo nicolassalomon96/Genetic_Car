@@ -12,7 +12,7 @@ pillow==10.3.0
 pygame==2.5.2
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
-setuptools==68.2.2
+setuptools
 six==1.16.0
 visualize==0.5.1
 wheel==0.41.2
